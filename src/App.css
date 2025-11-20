@@ -1,0 +1,31 @@
+
+@import "tailwindcss";
+.gradient-animate {
+  background: linear-gradient(135deg, #1C3738, #0f2d2e, #1C3738);
+  background-size: 300% 300%;
+  animation: gradientMove 10s ease infinite;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.typing {
+  width: fit-content;
+  border-right: 3px solid #00bcd4;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typingAnim 3s steps(20) 1s forwards, cursorBlink .7s infinite;
+}
+
+@keyframes typingAnim {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes cursorBlink {
+  0%, 50% { border-color: #00bcd4; }
+  51%, 100% { border-color: transparent; }
+}
