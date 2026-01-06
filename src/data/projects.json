@@ -1,0 +1,77 @@
+[
+  {
+    "id": "studymate",
+    "title": "StudyMate",
+    "description": "A personalized study platform with flashcards, topics outline, performance analytics, and real-time syncing.",
+    "longDescription": "StudyMate is a comprehensive learning platform designed to help students organize their study materials and track their progress. The application features an intuitive flashcard system, detailed topic outlines, performance analytics to identify weak areas, and real-time synchronization across devices. Built with modern web technologies, it provides a seamless learning experience with offline capabilities and collaborative features.",
+    "technologies": ["React", "Tailwind CSS", "Firebase", "Framer Motion", "Chart.js"],
+    "category": "web-app",
+    "images": [
+      {
+        "url": "/images/projects/studymate-logo.png",
+        "alt": "StudyMate logo",
+        "caption": "StudyMate logo"
+      },
+      {
+        "url": "/images/projects/studymate-flashcards.jpg",
+        "alt": "StudyMate flashcard interface",
+        "caption": "Interactive flashcard study interface"
+      }
+    ],
+    "demoUrl": "https://studymate-demo.vercel.app",
+    "repositoryUrl": "https://github.com/MENYOTHYCODE/studymate",
+    "featured": true,
+    "completedDate": "2025-10-15",
+    "status": "completed"
+  },
+  {
+    "id":"MeLearn",
+    "title": "MeLearn",
+    "description": "A comprehensive learning platform with interactive lessons, progress tracking, and community features.",
+    "longDescription": "MeLearn is a modern learning platform designed to provide an engaging educational experience. It features interactive lessons, progress tracking, and community-driven learning. The platform supports various content formats including videos, quizzes, and interactive exercises. Users can track their learning journey, participate in discussions, and collaborate with peers in a supportive environment.",
+    "technologies": ["React", "Tailwind CSS", "Firebase", "Framer Motion"],
+    "category": "web-app",
+    "images": [
+      {
+        "url": "/images/projects/melearn2.jpg",
+        "alt": "MeLearn placeholder image",
+        "caption": "Placeholder — replace with project image"
+      },
+      {
+        "url": "/images/projects/melearn2.jpg",
+        "alt": "Melearn progress tracking dashboard",
+        "caption": "Progress tracking dashboard"
+      }
+    ],
+    "demoUrl": "https://me-learn-68cz.vercel.app/",
+    "repositoryUrl": "https://github.com/MENYOTHYCODE/MeLearn",
+    "featured": false,
+    "completedDate": "2025-12-16",
+    "status": "completed"
+  },
+  {
+    "id":"BigWhalesFitness",
+    "title": "Big Whales Fitness",
+    "description": "A fitness platform with workout plans, progress tracking, and community features.",
+    "longDescription": "Big Whales Fitness is a comprehensive fitness platform designed to help users achieve their health and wellness goals. The application offers personalized workout plans, progress tracking, and community features to support a collaborative fitness journey. It includes detailed exercise instructions, progress analytics, and social interaction elements to keep users motivated.",
+    "technologies": ["React", "Tailwind CSS", "Firebase", "Framer Motion"],
+    "category": "web-app",
+    "images": [
+      {
+        "url": "/images/projects/bigwhales.png",
+        "alt": "Big Whales Fitness logo",
+        "caption": "Big Whales Fitness logo"
+      },
+      {
+        "url": "/images/projects/bigwhales dashboard.png",
+        "alt": "Big Whales Fitness dashboard",
+        "caption": "Dashboard with workout plans"
+      }
+    ],
+    "demoUrl": "https://big-whales-fitness-nwwc.vercel.app/",
+    "repositoryUrl": "https://github.com/MENYOTHYCODE/bigwhalesfitness",
+    "featured": false,
+    "completedDate": "2025-08-30",
+    "status": "completed"
+  }
+]

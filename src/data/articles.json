@@ -1,0 +1,122 @@
+[
+  {
+    "id": "getting-started-with-react-hooks",
+    "title": "Getting Started with React Hooks: A Complete Guide",
+    "excerpt": "Learn how to use React Hooks to build more efficient and cleaner functional components. This comprehensive guide covers useState, useEffect, and custom hooks.",
+    "author": "MENYO",
+    "publishedDate": "2024-01-15T10:00:00Z",
+    "category": "tutorial",
+    "tags": ["React", "JavaScript", "Hooks", "Frontend"],
+    "readingTime": 8,
+    "featured": true,
+    "published": true,
+    "coverImage": {
+      "url": "/images/blog/react-hooks-cover.jpg",
+      "alt": "React Hooks illustration with code examples"
+    },
+    "seo": {
+      "metaDescription": "Complete guide to React Hooks including useState, useEffect, and custom hooks with practical examples.",
+      "keywords": ["React Hooks", "useState", "useEffect", "Custom Hooks"]
+    }
+  },
+  {
+    "id": "building-responsive-layouts-with-css-grid",
+    "title": "Building Responsive Layouts with CSS Grid",
+    "excerpt": "Master CSS Grid to create complex, responsive layouts with ease. Learn the fundamentals and advanced techniques for modern web design.",
+    "author": "MENYO",
+    "publishedDate": "2024-02-10T14:30:00Z",
+    "category": "tutorial",
+    "tags": ["CSS", "Grid", "Responsive Design", "Frontend"],
+    "readingTime": 12,
+    "featured": false,
+    "published": true,
+    "coverImage": {
+      "url": "/images/blog/css-grid-cover.jpg",
+      "alt": "CSS Grid layout examples"
+    },
+    "seo": {
+      "metaDescription": "Learn CSS Grid fundamentals and advanced techniques for creating responsive layouts.",
+      "keywords": ["CSS Grid", "Responsive Design", "Web Layout", "CSS"]
+    }
+  },
+  {
+    "id": "javascript-performance-optimization-tips",
+    "title": "JavaScript Performance Optimization: 10 Essential Tips",
+    "excerpt": "Boost your JavaScript application performance with these proven optimization techniques. From memory management to efficient algorithms.",
+    "author": "MENYO",
+    "publishedDate": "2024-03-05T09:15:00Z",
+    "category": "tips",
+    "tags": ["JavaScript", "Performance", "Optimization", "Best Practices"],
+    "readingTime": 15,
+    "featured": true,
+    "published": true,
+    "coverImage": {
+      "url": "/images/blog/js-performance-cover.jpg",
+      "alt": "JavaScript performance optimization illustration"
+    },
+    "seo": {
+      "metaDescription": "Essential JavaScript performance optimization tips to make your applications faster and more efficient.",
+      "keywords": ["JavaScript Performance", "Optimization", "Web Performance", "JavaScript Tips"]
+    }
+  },
+  {
+    "id": "modern-css-techniques-2024",
+    "title": "Modern CSS Techniques Every Developer Should Know in 2024",
+    "excerpt": "Explore the latest CSS features and techniques that are changing how we style web applications. From container queries to CSS layers.",
+    "author": "MENYO",
+    "publishedDate": "2024-04-20T16:45:00Z",
+    "category": "insights",
+    "tags": ["CSS", "Modern Web", "Frontend", "Web Development"],
+    "readingTime": 10,
+    "featured": false,
+    "published": true,
+    "coverImage": {
+      "url": "/images/blog/modern-css-cover.jpg",
+      "alt": "Modern CSS techniques showcase"
+    },
+    "seo": {
+      "metaDescription": "Discover the latest CSS techniques and features that every developer should know in 2024.",
+      "keywords": ["Modern CSS", "CSS 2024", "Web Development", "Frontend"]
+    }
+  },
+  {
+    "id": "building-scalable-react-applications",
+    "title": "Building Scalable React Applications: Architecture Patterns",
+    "excerpt": "Learn proven architecture patterns and best practices for building large-scale React applications that are maintainable and performant.",
+    "author": "MENYO",
+    "publishedDate": "2024-05-12T11:20:00Z",
+    "category": "insights",
+    "tags": ["React", "Architecture", "Scalability", "Best Practices"],
+    "readingTime": 18,
+    "featured": true,
+    "published": true,
+    "coverImage": {
+      "url": "/images/blog/react-architecture-cover.jpg",
+      "alt": "React application architecture diagram"
+    },
+    "seo": {
+      "metaDescription": "Learn architecture patterns and best practices for building scalable React applications.",
+      "keywords": ["React Architecture", "Scalable React", "React Best Practices", "Frontend Architecture"]
+    }
+  },
+  {
+    "id": "web-accessibility-complete-guide",
+    "title": "Web Accessibility: A Complete Developer's Guide",
+    "excerpt": "Make your web applications accessible to everyone. This comprehensive guide covers WCAG guidelines, ARIA attributes, and practical implementation tips.",
+    "author": "MENYO",
+    "publishedDate": "2024-06-08T13:10:00Z",
+    "category": "tutorial",
+    "tags": ["Accessibility", "WCAG", "ARIA", "Inclusive Design"],
+    "readingTime": 14,
+    "featured": false,
+    "published": true,
+    "coverImage": {
+      "url": "/images/blog/accessibility-cover.jpg",
+      "alt": "Web accessibility symbols and icons"
+    },
+    "seo": {
+      "metaDescription": "Complete guide to web accessibility covering WCAG guidelines, ARIA attributes, and implementation best practices.",
+      "keywords": ["Web Accessibility", "WCAG", "ARIA", "Inclusive Design", "A11y"]
+    }
+  }
+]
